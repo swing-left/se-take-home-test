@@ -3,7 +3,7 @@
 For the Swing Left Technical Take Home please submit **ONE** of the following that might best showcase your range and expertise:
 
 - [Swing Left Frontend Test](https://codesandbox.io/s/swing-left-frontend-take-home-test-zkhz7?file=/README.md)
-- Swing Left Backend Test
+- [Swing Left Backend Test](#swing-left-backend-test)
 - An **equivalent** open-source code sample
 
 Please keep in mind that if you choose to submit an equivalent sample we will be asking you specific technical questions about it in the subsequent interview stages. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
@@ -18,7 +18,7 @@ Generally, we will be considering the following conditions when evaluating all s
 
 ## Swing Left Frontend Test
 
-The frontend test can be taken in CodeSandbox. The link to the frontend test [can be found here](https://codesandbox.io/s/swing-left-frontend-take-home-test-zkhz7?file=/README.md). Please fork the sandbox and send the link to [patrick@swingleft.org](mailto:patrick@swingleft.org) upon completion.
+The frontend test can be taken in CodeSandbox. The link to the frontend test [can be found here](https://codesandbox.io/s/swing-left-frontend-take-home-test-zkhz7?file=/README.md). Please fork the sandbox and send the link to [patrick@swingleft.org](mailto:patrick@swingleft.org) upon completion. If you find CodeSandbox to be inhibiting, please zip your project and send it to [patrick@swingleft.org](mailto:patrick@swingleft.org) and include any neccessary instructions for running the project locally in the README.
 
 ## Swing Left Backend Test
 
