@@ -6,7 +6,7 @@ For the SL/VF Technical Take Home please submit **ONE** of the following that mi
 - [Backend Test](#backend-test)
 - An **equivalent** open-source code sample
 
-If you choose to submit an equivalent sample we ask you specific technical questions about it in the subsequent interview stages. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
+If you choose to submit an equivalent sample we will ask you specific technical questions about it in the subsequent interview stages. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
 
 ### Evaluation
 
