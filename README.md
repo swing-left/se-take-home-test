@@ -1,9 +1,9 @@
-# Swing Left Take Home Test
+# Swing Left / Vote Forward Take Home Test
 
-For the Swing Left Technical Take Home please submit **ONE** of the following that might best showcase your range and expertise:
+For the SL/VF Technical Take Home please submit **ONE** of the following that might best showcase your range and expertise:
 
-- [Swing Left Frontend Test](https://codesandbox.io/s/swing-left-frontend-take-home-test-zkhz7?file=/README.md)
-- [Swing Left Backend Test](#swing-left-backend-test)
+- [Frontend Test](https://codesandbox.io/s/swing-left-vote-forward-frontend-take-home-test-zkhz7?file=/README.md)
+- [Backend Test](#backend-test)
 - An **equivalent** open-source code sample
 
 If you choose to submit an equivalent sample we ask you specific technical questions about it in the subsequent interview stages. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
@@ -16,11 +16,11 @@ Generally, we will be considering the following when evaluating all submissions:
 - Is the code clean and accessible to others?
 - Does the code elegantly handle edge case conditions?
 
-## Swing Left Frontend Test
+## Frontend Test
 
-The frontend test can be taken in CodeSandbox. The link to the frontend test [can be found here](https://codesandbox.io/s/swing-left-frontend-take-home-test-zkhz7?file=/README.md). Please fork the sandbox and send the link to [patrick@swingleft.org](mailto:patrick@swingleft.org) upon completion. If you find CodeSandbox to be inhibiting, please zip your project and send it to [patrick@swingleft.org](mailto:patrick@swingleft.org) and include any neccessary instructions for running the project locally in the README.
+The frontend test can be taken in CodeSandbox. The link to the frontend test [can be found here](https://codesandbox.io/s/swing-left-vote-forward-frontend-take-home-test-zkhz7?file=/README.md). Please fork the sandbox and send the link to [patrick@swingleft.org](mailto:patrick@swingleft.org) upon completion. If you find CodeSandbox to be inhibiting, please zip your project and send it to [patrick@swingleft.org](mailto:patrick@swingleft.org) and include any neccessary instructions for running the project locally in the README.
 
-## Swing Left Backend Test
+## Backend Test
 
 Please include a README that gives instructions for setup required to run your code (if any), and for how to run your submission. Submit the scraper code/test code/README in a zip file. Use as many or as few code files as you like, whatever makes the project easiest for you to organize. Send your final submission to [patrick@swingleft.org](mailto:patrick@swingleft.org).
 
