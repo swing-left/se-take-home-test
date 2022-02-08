@@ -10,7 +10,7 @@ If you choose to submit an equivalent sample we ask you specific technical quest
 
 ### Evaluation
 
-Generally, we will be considering the following conditions when evaluating all submissions:
+Generally, we will be considering the following when evaluating all submissions:
 
 - Does it work?
 - Is the code clean and accessible to others?
