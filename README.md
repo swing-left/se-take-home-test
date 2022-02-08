@@ -14,7 +14,7 @@ Generally, we will be considering the following conditions when evaluating all s
 
 - Does it work?
 - Is the code clean and accessible to others?
-- Does the code handle edge case conditions?
+- Does the code elegantly handle edge case conditions?
 
 ## Swing Left Frontend Test
 
