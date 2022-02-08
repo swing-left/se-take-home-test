@@ -31,7 +31,11 @@ Fetch the semi-structured per-state voter registration deadline info from https:
 - We’re using an archived version in the interest of consistency, so this data is for 2018.
 - You shouldn’t need to use the last column (“Description”)--it’s just an explanation of the general rule that produces the dates in the earlier columns.
 - The table is a little unclear about this, but assume that every state that has any registration (i.e. not North Dakota) has registration available both in-person and by-mail. These days may or may not be the same, though! Not every state has online as a valid method.
-- Use the language and ORM framework of your choice to parse and store the info for each state into a sqlite database. Internally, we use Python and SQL Alchemy or NodeJS and Knex, depending on our project.
-  For each state, store the in-person, by-mail, and online voter registration deadlines, if any.
-  Define a schema that makes the most sense to you for representing the data.
-  Write tests to validate the core parsing logic and a few states that represent edge cases.
+
+Use the language and ORM framework of your choice to parse and store the info for each state into a sqlite database. Internally, we use Python and SQL Alchemy or NodeJS and Knex, depending on our project.
+
+For each state, store the in-person, by-mail, and online voter registration deadlines, if any.
+  
+Define a schema that makes the most sense to you for representing the data.
+
+Write tests to validate the core parsing logic and a few states that represent edge cases.
