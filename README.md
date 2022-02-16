@@ -22,7 +22,11 @@ The frontend test can be taken in CodeSandbox. The link to the frontend test [ca
 
 ## Backend Test
 
-Please include a README that gives instructions for setup required to run your code (if any), and for how to run your submission. Submit the scraper code/test code/README in a zip file. Use as many or as few code files as you like, whatever makes the project easiest for you to organize. Send your final submission to [patrick@swingleft.org](mailto:patrick@swingleft.org).
+Please include a README that gives instructions for setup required to run your code (if any), and for how to run your submission. We would absolutely love it if you chose to test and run your code in an ephemeral environment like the ones provided by [Gitpod](https://github.com/gitpod-io/template-python-django). This would allow us to guarentee dependency and environment parity with your intended work. If you choose to take this route, feel free to submit a public repo that contains a link to the gitpod.
+
+If you're uncomfortable using an ephemeral environment (no worries!), submit your project as a zip file with a detailed 'Getting Started' section to your README.
+
+Use as many or as few code files as you like, whatever makes the project easiest for you to organize. Send your final submission to [patrick@swingleft.org](mailto:patrick@swingleft.org).
 
 ### Instructions
 
