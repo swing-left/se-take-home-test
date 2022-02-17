@@ -22,7 +22,7 @@ Generally, we will be considering the following when evaluating all submissions:
 
 ### Time Limit
 
-The purpose of the test is not to measure the speed of code creation. Feel free to let us know when you would like to start the test. Try to finish within 72 hours of your initial start time but don't stress about it.
+The purpose of the test is not to measure the speed of code creation. Feel free to let us know when you would like to start the test. Try to finish roughly within 72 hours of your initial start time but extra allowances are fine and it will not be strictly penalized.
 
 ## Frontend Test
 
