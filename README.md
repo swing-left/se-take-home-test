@@ -1,16 +1,12 @@
 # Swing Left / Vote Forward Take Home Test
 
-For the SL/VF Technical Take Home please submit **ONE** of the following that might best showcase your range and expertise:
+**Please submit ONE of the following that might best showcase your range and expertise.**
 
-- [Frontend Test](https://codesandbox.io/s/swing-left-vote-forward-frontend-take-home-test-zkhz7?file=/README.md)
-- [Backend Test](#backend-test)
-- An **equivalent** open-source code sample
+- Frontend Test
+- Backend Test
+- An equivalent open-source code sample
 
-If you choose to submit an equivalent sample we will ask you specific technical questions about it in the subsequent interview stages. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
-
-### Questions
-
-If you have any questions at all, feel free to reach out to [patrick@swingleft.org](mailto:patrick@swingleft.org)
+**For the code sample option:** if you’re curious to know if a certain code sample is sufficient, reach out directly to [patrick@swingleft.org](mailto:patrick@swingleft.org).
 
 ### Evaluation
 
@@ -20,9 +16,15 @@ Generally, we will be considering the following when evaluating all submissions:
 - Is the code clean and accessible to others?
 - Does the code elegantly handle edge case conditions?
 
+Based on these standards, we will select candidates to move to the next interview stage. If selected, you should expect specific technical questions about your test. We will be interested in the technical tradeoffs you made, the challenges you faced and what you would choose to do differently with additional time.
+
+### Queries or Concerns
+
+If you have any questions at all, feel free to reach out to [patrick@swingleft.org](mailto:patrick@swingleft.org)
+
 ### Time Limit
 
-The purpose of the test is not to measure the speed of code creation. Feel free to let us know when you would like to start the test. Try to finish roughly within 72 hours of your initial start time but extra allowances are fine and it will not be strictly penalized.
+The purpose of the test is not to measure the speed of code creation. Try to finish roughly within 72 hours of your initial start time but extra allowances are fine and will not be strictly penalized.
 
 ## Frontend Test
 
