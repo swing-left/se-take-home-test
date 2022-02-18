@@ -2,8 +2,8 @@
 
 **Please submit ONE of the following that might best showcase your range and expertise.**
 
-- Frontend Test
-- Backend Test
+- [Frontend Test](#frontend-test)
+- [Backend Test](#backend-test)
 - An equivalent open-source code sample
 
 **For the code sample option:** if you’re curious to know if a certain code sample is sufficient, reach out directly to [patrick@swingleft.org](mailto:patrick@swingleft.org).
